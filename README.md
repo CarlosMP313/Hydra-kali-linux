@@ -12,11 +12,11 @@ sudo apt-get install hydra
 ## Uso Básico de Hydra
 
 La sintaxis básica de Hydra es la siguiente:
-
-hydra [opciones] [objetivo] [protocolo]
 ```bash
-### Ejemplo 1: Ataque de Fuerza Bruta a un Servicio SSH
+hydra [opciones] [objetivo] [protocolo]
 ```
+
+### Ejemplo 1: Ataque de Fuerza Bruta a un Servicio SSH
 
 Para realizar un ataque de fuerza bruta a un servicio SSH, usa el siguiente comando:
 ```bash
